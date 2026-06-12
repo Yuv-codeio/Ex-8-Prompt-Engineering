@@ -17,7 +17,9 @@ Suggested AI Video Generation Tools:
 RunwayML, Pika Labs, Synthesia, Kaiber AI, Canva AI Video, Luma AI.
 
 Output:
-The document must contain the following:
+[EXP 8.pdf](https://github.com/user-attachments/files/28866395/EXP.8.pdf)
+
+The document must contain the following: 
 
 Prompts Used 
 
